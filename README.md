@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Alok's first website
+ https://alokjais.github.io/alok-first-website.github.io/
+ 
+ Avatar by name
+ https://alokjais.github.io/Create-Project-Using-APIs.github.io/
