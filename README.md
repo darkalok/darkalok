@@ -19,3 +19,6 @@ Alok's first website
  
  Avatar by name
  https://alokjais.github.io/Create-Project-Using-APIs.github.io/
+
+Stylish Calculator
+ https://alokjais.github.io/Stylish-Calculator.github.io/
