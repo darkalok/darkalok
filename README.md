@@ -17,14 +17,14 @@ In my free time, either I am learning new skills or doing exercise, or listen to
 - 💬 Ask me about anything related to New technology, psychology and Management .
 </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
- <a href = https://simarpreetsingh-019.github.io target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/digidentity.svg height='30' weight='30'/></a> 
- <a href = https://github.com/simarpreetsingh-019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = https://www.linkedin.com/in/simarpreetsingh019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
-<a href = https://twitter.com/simarpreet019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
-<a href = https://medium.com/@simarpreetsingh.019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg height='30' weight='30'/></a> 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=simarpreetsingh.019@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
-<a href = https://stackoverflow.com/users/11798523/simarpreetsingh-019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg height='30' weight='30'/></a>
-<a href = https://www.hackerrank.com/Simarpreetsingh4 target='_blank'> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height='30' weight='30'/></a> 
+ <!--<a href = https://simarpreetsingh-019.github.io target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/digidentity.svg height='30' weight='30'/></a> --> 
+  <!--<a href = https://github.com/simarpreetsingh-019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a> -->
+<a href = https://www.linkedin.com/in/darkalok target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href = https://twitter.com/dark_alok target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
+<a href = https://medium.com/@alokj369 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg height='30' weight='30'/></a> 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=alokj369@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
+<!-- <a href = https://stackoverflow.com/users/11798523/simarpreetsingh-019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg height='30' weight='30'/></a> -->
+<!-- <a href = https://www.hackerrank.com/Simarpreetsingh4 target='_blank'> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height='30' weight='30'/></a> --> 
 
  &emsp;
 
