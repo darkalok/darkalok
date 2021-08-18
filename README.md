@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **AlokJais/AlokJais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 Alok's first website
  https://alokjais.github.io/alok-first-website.github.io/
  
