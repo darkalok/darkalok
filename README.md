@@ -4,6 +4,7 @@
 <!-- **AlokJais/AlokJais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!--Here are some ideas to get you started: -->
+<!--![Hey](https://github.com/darkalok#hey--this-is-alok-jaiswal)-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,6 +14,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Github Stats](https://github-readme-stats.vercel.app/api?username=darkalok&count_private=true&show_icons=true&theme=radical)
+
 
 
 <!--
