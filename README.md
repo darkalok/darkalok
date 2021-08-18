@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<!--
 Alok's first website
  https://alokjais.github.io/alok-first-website.github.io/
  
@@ -22,3 +24,4 @@ Alok's first website
 
 Stylish Calculator
  https://alokjais.github.io/Stylish-Calculator.github.io/
+ -->
