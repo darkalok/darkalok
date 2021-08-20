@@ -11,8 +11,9 @@ In my free time, either I am learning new skills or doing exercise, or listen to
 
 ### 😉 About
 <!-- - 🔭 Last contributed in [Contributor's Hack 20](https://hakincodes.tech/ "HackinCodes"). -->
-- 🌱 I’m currently learning Web Dev, React.js. 
+<!-- - 🌱 I’m currently learning Web Dev, React.js.  -->
 <!-- - 🏄‍ Actively contributing to various organisations and Open-Source Projects. -->
+- 🌱 I’m currently learning Web Dev, React.js.
 - 🤔 I’m looking for help with Data Structures and Algorithm.
 - 💬 Ask me about anything related to New technology, psychology and Management .
 </p><h2 align='center'>Connect with me  📫 </h2>
